@@ -17,7 +17,7 @@ The dataset used for this analysis is a daily record of the top trending YouTube
 
 ## Report Requirement
 
-While planning for this project the initial purpose of creating the report was to see the overall 10 trending YouTube videos and their highest monthly income. However, during the report design I was also interested in doing a root-cause analysis to identify factors influencing the popularity of these videos over time.
+While planning for this project the initial purpose of creating the report was to see the overall top 10 trending YouTube videos and their highest monthly income. However, during the report design I was also interested in doing a root-cause analysis to identify factors influencing the popularity of these videos over time.
 
 ![Tableau Report](https://raw.githubusercontent.com/DariesMedia/TTY_Videos_Tableau_Report/main/TTY_Videos_Tableau_Report.jpg)
 
